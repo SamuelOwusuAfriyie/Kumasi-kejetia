@@ -1,0 +1,23 @@
+.eg {
+  display: flex;
+
+}
+.bb {
+  border: 1px solid black;
+  height: 250px;
+  width: 420px;
+}
+.eg2 {
+  margin-left: 150px;
+}
+.main-con {
+  height: 130vh;
+  background-color: #40C4FF;
+  position: relative;
+  width: 100%;
+}
+.sec-con {
+height: inherit;
+width: 100%;
+
+}

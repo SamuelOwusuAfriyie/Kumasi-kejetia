@@ -1,0 +1,11 @@
+.navbar {
+  opacity: 0.8; }
+.nav-item{
+  list-style-type: none;
+
+
+}
+.nav-item a{
+  text-decoration: none;
+  padding-bottom: 0px;
+}

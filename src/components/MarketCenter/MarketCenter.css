@@ -1,0 +1,30 @@
+.design {
+  border: 1px solid black
+}
+.sear {
+  background-color: #0787EA !important;
+  color: white !important;
+}
+.sideBar {
+  width: 350px;
+  height:1800px;
+  margin-right: 10px;
+    float:left;
+    border-right: 3px solid #e7edee;
+
+}
+.posImage {
+  float:left;
+}
+.sear3 {
+  width: 50px;
+  background-color: #0787EA !important;
+  color: white !important;
+}
+.bigP {
+  font-size: 18px;
+  font-weight: bold;
+}
+.countColor {
+  color: grey;
+}

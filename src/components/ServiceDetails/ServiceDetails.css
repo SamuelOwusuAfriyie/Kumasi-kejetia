@@ -1,0 +1,40 @@
+.det {
+  display: flex;
+
+}
+
+.det1 {
+  flex:1;
+}
+.det2 {
+  flex:1;
+}
+.bmove {
+  margin-left: 230px;
+}
+
+.offer1 {
+  border: 1px solid black;
+  height: 300px;
+  width: 350px;
+}
+.offer2 {
+  border: 1px solid black;
+  height: 300px;
+  width: 350px;
+}
+.offer3 {
+  border: 1px solid black;
+  height: 300px;
+  width: 350px;
+}
+.offer4 {
+  border: 1px solid black;
+  height: 300px;
+  width: 350px;
+}
+.offer5 {
+  border: 1px solid black;
+  height: 300px;
+  width: 350px;
+}

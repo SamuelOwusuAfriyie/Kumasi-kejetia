@@ -1,0 +1,44 @@
+.Slider {
+  width: 100% !important;
+
+}
+.Slider,.Slider img {
+  height: 70vh!important;
+}
+.slider-one ,.slider-two ,.slider-three{
+background-position: right;
+
+  max-width: 100%;
+  height: auto;
+  background-repeat: no-repeat;
+  background-size:cover;
+
+}
+
+.slider-one{
+  background-image: url("https://i.imgur.com/ErZEgZz.png");
+}
+.slider-two{
+background-image: url("https://i.imgur.com/0u1gtV2.jpg");
+}
+.slider-three{
+background-image: url("https://i.imgur.com/C3FWE2R.jpg");
+}
+
+
+@media screen and (max-width: 800px) {
+  .slider-one{
+    background-image: url("https://i.imgur.com/ErZEgZz.png");
+
+  }
+  .slider-two{
+  background-image: url("https://i.imgur.com/0u1gtV2.jpg");
+  }
+  .slider-three{
+  background-image: url("https://i.imgur.com/C3FWE2R.jpg");
+  }
+
+  .Slider,.Slider img {
+    height: 24vh!important;
+  }
+}

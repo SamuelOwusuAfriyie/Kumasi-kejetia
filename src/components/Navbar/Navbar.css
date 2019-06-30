@@ -1,0 +1,166 @@
+.navbar {
+  height: 200px;
+	width: 100%;
+  background-color: #0787EA;
+  padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #0066CC;
+}
+
+#topRow {
+  padding-top: 8px;
+	padding-bottom: 20px;
+    color: #FFFFFF;
+	font-size: 15px;
+	text-align: right;
+	font-family: candara;
+  margin-bottom: 150px;
+}
+
+.rowList {
+  text-decoration: none;
+	color: #fff;
+	padding-top: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	display: inline;
+  margin-bottom: 80px;
+}
+
+.logoContainer {
+  width: 22%;
+	float: left;
+	margin-right: 5%;
+  height:100px;
+  margin-top: 7%;
+
+}
+
+.logo {
+  width: 100%;
+}
+.siteMenu {
+  background-color: #0787EA;
+  	padding-top: 14px;
+  	padding-bottom: 15px;
+      padding-left: 5%;
+  	padding-right: 5%;
+  	width: 100%;
+}
+.menuId {
+  padding: 14px 20px 15px 20px;
+    color: #FFFFFF;
+	font-weight: bold;
+	font-size: 16px;
+	text-decoration: none;
+	background-color: #0787EA;
+	border-right: 1px solid #0066CC;
+}
+
+.banner1 {
+/*  background-image: url("https://i.imgur.com/0u1gtV2.jpg");*/
+/*  background-size: cover;*/
+  width: 100%;
+  height:800px;
+}
+
+.textDeco {
+  text-decoration: none;
+  color: #FFFFFF;
+}
+.d-none {
+  display: none!important;
+}
+.bR {
+  border-right: 1px solid #0066CC;
+  text-decoration: none;
+  font-weight: 700;
+  font-size: 16px;
+  padding: 14px 20px 15px;
+}
+@media screen and (max-width: 500px) {
+  #bC {
+
+    margin-top: 7%;
+
+  }
+}
+.search-list{
+  border-radius: 20px 0px 0px 20px!important;
+  padding: 0px!important;
+  margin: 0px!important;
+  box-shadow: 0px!important;
+  border-right: 0px!important;
+}
+.search-input{
+  border-radius: 0px!important;
+  border-right: 0px!important;
+  border-left: 0px!important;
+  font-size: 5px;
+}
+.button-input{
+  border-left: 0px!important;
+  border-radius:0px 20px 20px 0px!important;
+}
+.button-input, .search-input ,.search-list{
+  height: 40px!important;
+}
+.icons i{
+  color: white;
+  font-size:20px;
+  padding: 0px 10px
+}
+.text-white{
+  color: white;
+
+}
+@media (max-width: 576px) {
+  .mylogo:{
+    height: 24.406px!important;
+    width: 81.375px!important;
+  }
+  .search-list{
+    display: none!important;
+  }
+
+  .search-input,.button-input{
+    height: 20px!important;
+    margin-top: 5px;
+  }
+
+  .icons{
+    position: absolute!important;
+    top:10px!important;
+    right: 0px;
+  }
+  .icons i{
+    padding: 0px 3px;
+    font-size: 10px!important;
+
+  }
+  .nav-container{
+  padding-top: 10px!important;
+  padding-bottom: 10px!important;
+
+
+  }
+
+  .search-bar{
+    padding: 5px auto!important;
+    margin-top: 5px!important;
+  }
+ .search-input{
+    font-size: 10px!important;
+  }
+ }
+
+ .toggle-list:hover{
+   background-color:rgb(248,125,43) ;
+   cursor: pointer;
+ }
+/*  */
+.accIcon {
+  font-size: 20px;
+}

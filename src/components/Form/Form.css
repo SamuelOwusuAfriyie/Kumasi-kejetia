@@ -1,0 +1,17 @@
+.form {
+  /*width:30%;*/
+  height: 1500px;
+  border: 1px solid black;
+  border-bottom:  1px solid black;
+}
+.selectHeight{
+  height: 30px;
+  margin-bottom: 5%;
+}
+
+.fdFont {
+  font-size: 24px;
+}
+.paraLeft {
+  padding-left: 155px;
+}

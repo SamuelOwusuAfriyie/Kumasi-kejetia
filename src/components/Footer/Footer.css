@@ -1,0 +1,176 @@
+
+#footer {
+	width: 100%;
+	background-color: #F8F8F8;
+	border-top: 1px solid #ccc;
+}
+#frow1 {
+    background-color: #F8F8F8;
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 80px;
+	padding-bottom: 80px;
+	}
+#fcolumn1 {
+    width: 35%;
+	margin-right: 5%;
+	float: left;
+	}
+#fcolumn1a {
+    width: 45%;
+	margin-right: 5%;
+	float: left;
+	}
+#fcolumn1b {
+    width: 80%;
+	float: left;
+	}
+#fcolumn1c {
+    margin-top: 40px;
+    width: 100%;
+	float: left;
+	}
+#fcolumn1d {
+    margin-top: 40px;
+    width: 100%;
+	float: left;
+	}
+#fcolumn2 {
+    width: 15%;
+	margin-right: 5%;
+	float: left;
+	}
+#fcolumn2 a {
+    text-align: left;
+	color: #333;
+	font-size: 14px;
+	text-decoration: none;
+	display: block;
+	line-height: 2.5em;
+	}
+#fcolumn2 a:hover {
+	color: #000;
+	}
+#fcolumn3 {
+    width: 15%;
+	margin-right: 5%;
+	float: left;
+	}
+#fcolumn3 a {
+    text-align: left;
+	color: #333;
+	font-size: 14px;
+	text-decoration: none;
+	display: block;
+	line-height: 2.5em;
+	}
+#fcolumn3 a:hover {
+	color: #000;
+	}
+#fcolumn4 {
+    width: 15%;
+	float: left;
+	margin-right: 5%;
+	}
+#fcolumn4 a {
+    text-align: left;
+	display: block;
+	padding: 20px 0;
+	}
+#frow2 {
+    margin-top: 80px;
+    background-color: #EAEAEA;
+  min-height: 40px;
+	width: 90%;
+	padding-left: 5%;
+	padding-right: 5%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+#fcolumn5 {
+    width: 35%;
+	margin-right: 5%;
+	float: left;
+	text-align: left;
+	color: #333333;
+	font-weight: bold;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	}
+#fcolumn6 {
+    width: 100%;
+	float: left;
+	text-align: right;
+	}
+.footer-heading {
+    text-align: left;
+	color: #000;
+	font-weight: bold;
+	font-size: 16px;
+}
+.logMakr img {
+  width: 100%;
+}
+
+.support {
+  color:#000;
+  font-size: 13px;
+}
+.support1 {
+color: #333;
+font-size: 22px;
+font-weight: lighter;
+line-height: 2em;
+}
+.support2 {
+  color: #333;
+  font-size: 22px;
+  font-weight: lighter;
+  line-height: 2em;
+}
+.kejemail {
+  color:#000;
+  font-size: 14px;
+   line-height: 2em;
+}
+.fb {
+  color:#666;
+  font-size: 24px;
+}
+.twitter {
+  color:#666;
+   font-size: 24px;
+}
+.instagram {
+  color:#666;
+  font-size: 24px;
+}
+.youtube {
+  color: #666;
+  font-size: 24px;
+}
+.clear {
+  clear: both;
+}
+.paymentMaster {
+  width: 80px;
+  height: 40px;
+}
+.mtn {
+  width: 65px;
+  height: 35px;
+}
+.airtel {
+  width: 70px;
+  height:35px;
+}
+.tigo {
+  width:80px;
+   height: 35px;
+}
+.voda {
+  width:60px;
+   height: 35px;
+}

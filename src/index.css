@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  overflow-x: hidden!important;
+}
+.myToggle{
+  position: absolute;
+  right: 25px;
+  z-index: 2;
+  top: 6vh;
+  font-size: 30px
+}
+.myToggleNav{
+  z-index: 2;
+  width: 100%;
+  top:0px;
+}

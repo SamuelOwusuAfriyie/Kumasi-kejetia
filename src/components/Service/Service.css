@@ -1,0 +1,72 @@
+$bg-color:#333;
+$font-color:#fff;
+$primary-color:#008ed6;
+$icon-size: 30px;
+
+body {
+  background-color: #333;
+  color: #fff;
+}
+.navbar2 {
+  border-bottom: #008ed6 3px solid;
+  /* height: 205px; */
+}
+#home-section {
+  background:url('https://i.imgur.com/8NBfYg2.jpg') no-repeat;
+  min-height: 700px;
+  background-size: cover;
+  background-attachment: fixed;
+
+
+
+
+}
+.dark-overlay {
+  background-color: rgba(0,0,0,0.7);
+  position: absolute;
+  left:0;
+  width:100%;
+  min-height: 700px;
+}
+.home-inner {
+  padding-top: 150px;
+}
+.card-form {
+  opacity: 0.8;
+}
+.fa {
+  color:#008ed6;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px;
+}
+#home {
+    color: #fff;
+}
+.colorBackground {
+background-color: black;
+height: 1100px;
+width: 310px;
+}
+
+.borderDiv {
+  border: 1px solid grey;
+  width:300px;
+}
+.sPortal {
+  margin-top: 70px;
+
+}
+.colorBackground2 {
+  background-color: red;
+  width: 400px;
+}
+@media screen and (min-width: 500px) {
+
+    .d-lg-toggle-none{
+      display: none!important;
+      color: green
+    }
+
+}

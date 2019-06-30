@@ -1,0 +1,14 @@
+p.redPara  {
+  color: red;
+}
+.sizeH1 {
+  font-size: 24px;
+}
+p.redPara:hover {
+  color: blue;
+}
+
+.highlig:hover {
+  color: blue !important;
+  text-decoration: none;
+}
